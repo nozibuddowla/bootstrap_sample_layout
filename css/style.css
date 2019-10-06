@@ -1,0 +1,30 @@
+body{
+	background-color: #FFAEC9;
+}
+
+h1{
+	text-align: center;
+}
+
+.box{
+	min-height: 55px;
+	background-color: #99D9EA;
+	border: 5px solid #22B14C;
+	margin-bottom: 10px;
+}
+
+.fu{
+	min-height: 55px;
+	border: 5px solid #22B14C;
+	margin-bottom: 10px;
+}
+
+.wrap {
+	background-color: #99D9EA;
+	border: 5px solid #B5E61D;
+	margin-bottom: 10px;
+}
+
+.rbox {
+	background-color: #ED1C24;
+}
